@@ -31,5 +31,11 @@ public class Main {
         s.append("2221");
         System.out.println(s);
 
+        Generyka<Integer> generyka = new Generyka<>();
+        generyka.wyswietl(123123);
+
+        // stworzyc nowy obiekt Generyka typu String
+        // wywolac metode wyswietl przekazujac stringa
+
     }
 }

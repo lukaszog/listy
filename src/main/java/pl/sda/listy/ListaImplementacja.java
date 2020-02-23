@@ -27,7 +27,6 @@ public class ListaImplementacja implements Lista {
         this.rozmiar++;
     }
 
-
     @Override
     public int znajdz(int liczba) {
         return 0;
